@@ -9,7 +9,7 @@ def test_subtract():
     assert subtract(10, 5) == 5
 
 
-def test_multiply():
+def test_multiply()
     assert multiply(10, 5) == 50
 
 
